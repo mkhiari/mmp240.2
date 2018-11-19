@@ -1,0 +1,22 @@
+body
+	background: url("images/jason-edwards-1063280-unsplash.jpg"); no-repeat center center fixed;
+	backgrcolor: black;
+	font-size: 14px;
+}
+h1 {
+    color: pink;
+    text-align: center;
+    font-size: 24px;
+    .center {
+    text-align: left;
+}
+h2 {
+	color: blue;
+    font-size: 20px;
+    .center {
+    text-align: left;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}

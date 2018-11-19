@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<html lang="en">
+    <title>Tunisian Recipes</title>
+    <link rel="stylesheet" href="main.css">
+    <link href="https://fonts.googleapis.com/css?family=Notable" rel="stylesheet"> 
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+        <div class="navbar-header">
+        </div>
+            <ul class="nav navbar-nav">
+                <li><a class="navbar-brand" href="#">Tunisian Cuisine Inc.</a></li>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="couscous.html">Couscous</a></li>
+                    <li><a href="briks.html">Briks</a></li>
+                  <li><a href="salads.html">Salads</a></li>
+                  <li><a href="pastries.html">Pastries</a></li>
+                  <li><a href="tea.html">Tea with Menth</a></li>
+            </ul>
+    
+        <div class="container">
+        </div>
+            <h1>Tunisian Cuisine</h1>
+            <img src="images/sidibou.jpg"style="float:right;width:450px;height:281px;">
+            <img src="images/sidibousaid.jpg"style="float:right;width:450px;height:281px;">
+            <img src="images/sidibou2.jpg"style="float:right;width:450px;height:281px;">
+            <img accesskey=""src="images/sidibou3.jpg"style="float:right;width:450px;height:281px;">
+            
+             <p>Tunisian cuisine, the cuisine of Tunisia, is a blend of Mediterranean and desert dwellers' culinary traditions. Its distinctive spicy fieriness comes from the many civilizations which have ruled the land now known as Tunisia: Romans, Vandals, Byzantines, Arabs, Spanish, Turkish, Italians (Sicilians), French, and the native Punics-Berber people. Many of the cooking styles and utensils began to take shape when the ancient tribes were nomads. Nomadic people were limited in their cooking implements by what pots and pans they could carry with them. The Tunisian tagine, is very different from the Algerian or Moroccan dish. It is a type of a pie dish, made out of eggs, meat and vegetables, similar to the Italian frittata or the eggah.
+
+            The openness to trade and tourism also brought international cuisines, like the Chinese, Indian, Japanese cuisine, or fast-food. Moreover, the intensification of commercial exchange with Europe and the rest of the world, made certain uncommon products available, which in turn allowed locals to experiment with other cuisines.
+
+            Like all countries in the Mediterranean basin, Tunisia offers a "sun cuisine," based mainly on olive oil, spices, tomatoes, seafood and meat.</p>
+<body>
+</html>
+

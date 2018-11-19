@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("images/orange.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+hi {
+    color: blueviolet;
+    font-size: 28;
+    font-family: monospace
+}
+p {
+    text-align: center;
+    font-size: 18;
+    color: black;
+}

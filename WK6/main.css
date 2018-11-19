@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}  
+
+body
+{
+			background-size: cover;
+			background-color: darkgrey;
+			font-family: "Comic Sans MS", cursive, sans-serif;
+			text-align: left;
+			margin-top: 2%;
+			color: black;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+   
+.images img{
+    width: 30%;
+    margin: 1.5%;
+}
+     
+    nav{
+        background-color: darkgrey;         
+            text-align: left;
+        }
+            nav ul{
+             list-style: none;
+            }
+        
+        nav li{
+            
+            display: inline;
+        }
+        
+        nav a{
+            display: inline-block;
+            padding: 15pX;
+            background-color:  ;
+            color: darkgreen;
+            text-decoration: none;
+            margin-right: 25px;
+        }
+        nav a:hover{
+            background-color: black;
+            color: white;
+        } 
+    
+
+div {
+    clear: both;
+}
+        
+h1{background-color: darkgrey;
+    margin-top: 60px;
+    color:#e6b800;
+    font-size: 38px;
+    text-align: center;
+    
+    padding: 30px;
+}
+h2{
+   background-color: darkgrey;
+    margin-top: 60px;
+    color:#e6b800;
+    font-size: 28px;
+    text-align: center;
+    
+    padding: 20px; 
+}
+
+p{
+    background-color: darkgrey;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    text-align:justify;
+    margin-bottom: 50px; 
+    padding-left: 15px;
+    padding-right: 15px;
+   
+}
+
+h4{
+    text-align: center;
+}

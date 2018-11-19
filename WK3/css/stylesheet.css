@@ -1,0 +1,26 @@
+body
+<<<<<<< HEAD:WK3/stylesheet.css
+	background: url(jason-edwards-1063280-unsplash (1).jpg);  
+=======
+	background: url("images/kylo-781057-unsplash.jpg"); no-repeat center center fixed;
+>>>>>>> 0fbffc8ce48433d9da9714c626f26c6ea690a053:WK3/css/stylesheet.css
+	backgrcolor: black;
+	font-size: 14px;
+}
+h1 {
+    color: pink;
+    text-align: center;
+    font-size: 24px;
+    .center {
+    text-align: left;
+}
+h2 {
+	color: blue;
+    font-size: 20px;
+    .center {
+    text-align: left;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}

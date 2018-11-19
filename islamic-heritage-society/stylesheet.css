@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-size: cover;
+  background-color: #7575a3;
+  font-family: "Noto Serif", serif;
+  text-align: left;
+  color: black;
+  margin: auto;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: black;
+  text-align: left;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  display: inline-block;
+  padding: 20pX;
+  color: white;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+nav a:hover {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  background-color: #52527a;
+  margin-top: 60px;
+  color: black;
+  font-size: 48px;
+  text-align: center;
+  padding: 60px;
+}
+
+h2 {
+  margin-bottom: 25px;
+    margin-top: 25px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 0;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+p {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black;
+  font-size: 24px;
+}
+
+.youtube_video, .Google-maps, .Cancer {
+  width: 50%;
+  margin: 2% auto;
+}
+
+.youtube_video iframe, .Google-maps iframe {
+  width: 100%;
+}
+
+.MMissiontext p {
+  font-size: 20px;
+}
+
+.thumbnail {
+  width: 47%;
+  float: left;
+  margin: 1.5%;
+}
+
+.thumbnail img, .Cancer img {
+  width: 100%;
+}
+
+.contact-text p {
+  text-align: center;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.navbar-header img {
+  float: left;
+  width: 99px;
+  margin-top: 10px;
+}
+
+
