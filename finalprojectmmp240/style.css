@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 
+}
+h1{
+    text-align: center;
+    
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+  padding: 10px;
+  background-color: #dddddd;
+}
+.navgrid {
+  background-color: antiquewhite; 
+    height: 70px;
+}
+.navtext{
+    float: right;
+}
+
+
+
+
+
+.banner img{
+    display: block;
+    width:100%;
+    height: auto;
+}
+.banner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 40%;
+    margin: auto;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    background-color: antiquewhite;
+    height: 70px;
+}
+
+.info{
+    grid-column: 1/2;
+    
+}
+
+.socialmedia{
+  display: grid;
+    grid-template-columns: 1fr 1fr;  
+}
+
+.icon a{
+    text-align: center;
+}
+
+
+/*
+.grid div:nth-child(even){
+    background-color: red;
+} 
+.grid div: nth-child(odd){
+    background-color: green;
+  
+}
+*/
+
+
+
